@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Calvin Energy
+# Welcome to Calvin Energy
 
 Calvin Energy brokers the energy industry to meet all your energy needs.
