@@ -11,7 +11,7 @@ bodyClass: page-contact
   <label>
     Your email:
     <br>
-    <input type="text" name="_replyto">
+    <textarea name="message"> name="_replyto">
   </label>
   <br>
     <label>
@@ -19,7 +19,7 @@ bodyClass: page-contact
     <br>
     <textarea name="message"></textarea>
   </label>
-  <br><br>
+  <br>
   <label>
     Your message:
     <br>
