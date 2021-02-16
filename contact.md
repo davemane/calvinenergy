@@ -5,7 +5,7 @@ bodyClass: page-contact
 ---
 
 <form
-  action="https://formspree.io/calvinproject0@gmail.com"
+  action="https://formspree.io/f/xknparko"
   method="POST"
 >
   <label>
