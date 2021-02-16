@@ -10,16 +10,19 @@ bodyClass: page-contact
 >
   <label>
     Your email:
+    <br>
     <input type="text" name="_replyto">
   </label>
-  <br><br>
+  <br>
     <label>
     Your Phone Number:
+    <br>
     <textarea name="message"></textarea>
   </label>
   <br><br>
   <label>
     Your message:
+    <br>
     <textarea name="message"></textarea>
   </label>
   <br>
