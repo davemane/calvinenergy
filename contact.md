@@ -4,7 +4,7 @@ layout: contact
 bodyClass: page-contact
 ---
 
-<form action="calvinenery.com/contact" method="post">
+<form action="" method="post">
 	<input type="text" name="replyto" />
 	<br><br>
 	<input type="text" name="subject" />
