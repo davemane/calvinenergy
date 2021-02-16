@@ -9,7 +9,7 @@ bodyClass: page-contact
   method="POST"
 >
   <label>
-    Your email:
+    Your email please:
     <br>
     <input type="text" name="_replyto">
   </label>
