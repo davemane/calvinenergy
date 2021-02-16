@@ -10,7 +10,7 @@ bodyClass: page-contact
 	<input type="text" name="subject" />
 	<br><br>
 	<textarea name="body" rows="10"></textarea>
-	<script src="/emailscript.html"></script>
+	<script src="/emailscript"></script>
 	<br><br>
 	<button type="submit">Send</button>
 </form>
