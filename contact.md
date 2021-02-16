@@ -4,7 +4,7 @@ layout: contact
 bodyClass: page-contact
 ---
 
-<form action="/about/" method="post">
+<form action="/about/" method="POST">
 	<input type="text" name="replyto" />
 	<br><br>
 	<input type="text" name="subject" />
