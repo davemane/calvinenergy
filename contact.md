@@ -4,30 +4,16 @@ layout: contact
 bodyClass: page-contact
 ---
 
-<form
-  action="https://formspree.io/f/xknparko"
-  method="POST"
->
-  <label>
-    Your email:
-    <br>
-    <input type="text" name="_replyto">
-  </label>
-  <br>
-    <label>
-    Your phone number:
-    <br>
-    <textarea name="message"></textarea>
-  </label>
-  <br>
-  <label>
-    Your message:
-    <br>
-    <textarea name="message"></textarea>
-  </label>
-  <br>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
+<form method="POST" action="https://formspree.io/f/xknparko">
+  Your email:
+  <br><br>
+  <input type="email" name="email" placeholder="Your email">
+  Your phone number:
+  <br><br>
+  <input type="text" name="number" placeholder="Your number">
+  Your message:
+  <br><br>
+  <textarea name="message" placeholder="Your message" rows="5">
+  </textarea>
+  <button type="submit">Send Message</button>
 </form>
