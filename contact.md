@@ -9,13 +9,13 @@ bodyClass: page-contact
   method="POST"
 >
   <label>
-    Your email please:
+    Your email:
     <br>
     <input type="text" name="_replyto">
   </label>
   <br>
     <label>
-    Your Phone Number:
+    Your phone number:
     <br>
     <textarea name="message"></textarea>
   </label>
