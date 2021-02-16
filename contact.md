@@ -4,13 +4,24 @@ layout: contact
 bodyClass: page-contact
 ---
 
-<form action="/emailscript" method="POST">
-	<input type="text" name="replyto" />
-	<br><br>
-	<input type="text" name="subject" />
-	<br><br>
-	<textarea name="body" placeholder="Your message" rows="10"></textarea>
-	<script src="https://www.google.com/recaptcha/api/challenge?k=<6LeB-VkaAAAAAIC1ZQ2MkPEtstmUi5WjT2kDrmXj>"></script>
-	<br><br>
-	<button type="submit">Send</button>
+<form
+  action="https://formspree.io/f/xknparko"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+    <label>
+    Your Phone Number:
+    <textarea name="message"></textarea>
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
 </form>
