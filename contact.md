@@ -4,26 +4,4 @@ layout: contact
 bodyClass: page-contact
 ---
 
-local USERNAME = 'calvinproject0@gmail.com'
-local PASSWORD = 'MollyPitcher22!'
-local SERVER = 'smtp.gmail.com'
-local RECAPTCHAKEY = '6LeB-VkaAAAAAIC1ZQ2MkPEtstmUi5WjT2kDrmXj'
-local recaptcha = require 'recaptcha'
-local markdown = require 'markdown'
-if recaptcha.validate(RECAPTCHAKEY, request) then
-	html = markdown(request.form.body)
-	email.send {
-		server = SERVER, username = USERNAME, password = PASSWORD,
-		from = 'dlevans30@gmail.com', to = 'daveman.evans@gmail.com',
-		subject = '[contact form] '..request.form.subject,
-		text = request.form.body,
-		replyto = request.form.replyto,
-		html = html
-	}
-	return '<p>Sent the following mail:</p>'
-			..'<p>Subject: '..request.form.subject..'</p>'
-			..html,
-		{['Content-Type'] = 'text/html'}
-else
-	return 'Failed CAPTCHA.'
-end
+
