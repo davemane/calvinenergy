@@ -12,12 +12,12 @@ bodyClass: page-contact
     Your email:
     <input type="text" name="_replyto">
   </label>
-  <br>
+  <br><br>
     <label>
     Your Phone Number:
     <textarea name="message"></textarea>
   </label>
-  <br>
+  <br><br>
   <label>
     Your message:
     <textarea name="message"></textarea>
