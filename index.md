@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Welcome to Calvin Energy
 
-Calvin Energy brokers the energy industry to meet all your energy needs.
+Calvin Energy surveys the solar energy industry to find the best solution for you - for free.
