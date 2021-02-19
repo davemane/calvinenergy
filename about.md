@@ -7,8 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# We believe in open information.
+# We believe in consumer empowerment.
 
-The Calvin Project exists as an outlet for information to be freely shared and freely understood. Transparency provides accountability - something missing from most traditional media outlets.
+Consuming energy is not a question of if, but rather a question of how much. Because energy is a necessity, we believe consumers should be empowered to make decisions that fit their lifestyle without worrying about falling into a trap. That's where Calvin Energy comes in.
 
-Here at the Calvin Project, we believe the truth will set you free.
+Here at the Calvin Energy, we always put you first and make the path toward an energy decision a little bit easier to walk.
