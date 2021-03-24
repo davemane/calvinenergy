@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Welcome to Calvin Energy
 
-Calvin Energy surveys the solar energy industry to find the best solution for you - for free.
+Calvin Energy surveys the renewable energy market to find the best solution for you - for free.
